@@ -1,0 +1,11 @@
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MesajSistemi\MesajSistemi\obj\Debug\MesajSistemi.csproj.AssemblyReference.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MesajSistemi\MesajSistemi\obj\Debug\MesajSistemi.frmAnasayfa.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MesajSistemi\MesajSistemi\obj\Debug\MesajSistemi.frmGiris.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MesajSistemi\MesajSistemi\obj\Debug\MesajSistemi.Properties.Resources.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MesajSistemi\MesajSistemi\obj\Debug\MesajSistemi.csproj.GenerateResource.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MesajSistemi\MesajSistemi\obj\Debug\MesajSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MesajSistemi\MesajSistemi\bin\Debug\MesajSistemi.exe.config
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MesajSistemi\MesajSistemi\bin\Debug\MesajSistemi.exe
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MesajSistemi\MesajSistemi\bin\Debug\MesajSistemi.pdb
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MesajSistemi\MesajSistemi\obj\Debug\MesajSistemi.exe
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MesajSistemi\MesajSistemi\obj\Debug\MesajSistemi.pdb
